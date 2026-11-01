@@ -1,6 +1,60 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/webcent-hanseatic-bank-genialcard-kreditkarte-mit-bis-zu-70-cashback-1515793",
+   "titel": "[Webcent] Hanseatic Bank GenialCard Kreditkarte mit 70€ Cashback",
+   "link": "https://www.mydealz.de/deals/webcent-hanseatic-bank-genialcard-kreditkarte-mit-bis-zu-70-cashback-1515793",
+   "quelle": "mydealz – Cashback",
+   "bereich": "privat",
+   "prioritaet": 2,
+   "score": 7,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 70,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "fa8edf0de571"
+  },
+  {
+   "id": "https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
+   "titel": "Toptal: Applied AI Engineers for telecommunications company",
+   "link": "https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
+   "quelle": "We Work Remotely – Programming",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 6,
+   "kategorie": "Auftrag",
+   "rechtsAmpel": "gelb",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": null,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "b7a413c333c5"
+  },
+  {
+   "id": "https://www.mydealz.de/deals/telekom-dsl-100-inkl-magentatv-megastream-appletv-netflix-disney-rtl-fur-eff-4245eurmonat-durch-600eur-bonus-2862831",
+   "titel": "113° - Telekom DSL 100 inkl. MagentaTV Megastream (AppleTV, Netflix, Disney+, RTL+) für eff. 42,45€/Monat durch 600€ Bonus",
+   "link": "https://www.mydealz.de/deals/telekom-dsl-100-inkl-magentatv-megastream-appletv-netflix-disney-rtl-fur-eff-4245eurmonat-durch-600eur-bonus-2862831",
+   "quelle": "mydealz – Hot Deals",
+   "bereich": "privat",
+   "prioritaet": 2,
+   "score": 6,
+   "kategorie": "Deal",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 600,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "e0da868f3017"
+  },
+  {
    "id": "https://www.mydealz.de/deals/epic-games-epic-world-freebie-2862766",
    "titel": "150° - [Epic Games Store] kostenlos Epic World Hunt for quest (01.11.2026 - 08.11.2026)",
    "link": "https://www.mydealz.de/deals/epic-games-epic-world-freebie-2862766",
@@ -15,7 +69,8 @@
    "thema": "Sonstiges",
    "nutzen": null,
    "gefunden": "2026-11-01T13:10:22+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "34e86986bd3a"
   },
   {
    "id": "https://www.mydealz.de/deals/kostenloses-norisbank-girokonto-200-eur-pramie-25-tagesgeldzinsen-2857505",
@@ -32,7 +87,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": "2026-11-01T13:10:22+00:00"
+   "gepusht": "2026-11-01T13:10:22+00:00",
+   "rid": "b483b0267536"
   },
   {
    "id": "https://www.mydealz.de/deals/25-pa-zinsen-120eur-pramie-fur-das-norisbank-girokonto-2855884",
@@ -49,7 +105,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": "2026-11-01T13:10:22+00:00"
+   "gepusht": "2026-11-01T13:10:22+00:00",
+   "rid": "8fa01a9ef470"
   },
   {
    "id": "https://www.mydealz.de/deals/fidelity-kostenloses-depot-mit-sonderkonditionen-zb-vl-sparplan-gratis-150-pramie-50-fur-vl-sparplan-50-einmalanlage-50-sparplan-2855043",
@@ -66,7 +123,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": "2026-11-01T13:10:22+00:00"
+   "gepusht": "2026-11-01T13:10:22+00:00",
+   "rid": "50323674fa36"
   },
   {
    "id": "https://www.mydealz.de/deals/spartanien-traders-place-depot-mit-135eur-pramie-75eur-spartanien-60eur-neukundenbonus-mind-3-trades-a-100eur-1000eur-portfoliowert-eid-2856713",
@@ -83,7 +141,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "4ae295a5b140"
   },
   {
    "id": "https://www.mydealz.de/deals/consorsbank-100eur-kwk-pramie-freunde-werben-freunde-fur-tagesgeld-depot-oder-girokonto-2854598",
@@ -100,7 +159,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "1d20a93a7702"
   },
   {
    "id": "https://www.mydealz.de/deals/trade-republic-30-eur-fur-reine-depoteroffnung-spartanien-2853513",
@@ -117,7 +177,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "505f52d33278"
   },
   {
    "id": "https://www.mydealz.de/deals/comdirect-girokonto-25000-eur-pramie-neukunden-2853230",
@@ -134,7 +195,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "3e21454e1aa8"
   },
   {
    "id": "https://www.mydealz.de/deals/kostenloses-girokontofreiberuflerselbststandige-kleine-unternehmenkeine-schufa-prufung60eur-cashback-von-spartanien-250eur-moglich-su-2856569",
@@ -151,7 +213,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "4692f65bcc83"
   },
   {
    "id": "https://www.mydealz.de/deals/50eur-8050eur-mit-premium-uber-gmxwebde-bei-etoro-nur-fur-500eur-einzahlung-cashback-und-einzahlung-nach-2-tagen-auszahlbar-2856220",
@@ -168,7 +231,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "bec33d1e429e"
   },
   {
    "id": "https://www.mydealz.de/deals/50eur-wunschgutschein-geschenkt-fur-100eur-einzahlung-aktion-bis-30102026-2854165",
@@ -185,7 +249,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "9c7d74f71285"
   },
   {
    "id": "https://www.mydealz.de/deals/berliner-sparkasse-200-euro-bonus-fur-girokonto-2852866",
@@ -202,7 +267,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "1b1faad8530a"
   },
   {
    "id": "https://www.mydealz.de/deals/smartbroker-etf-im-wert-von-80eur-fur-eine-eroffnung-des-kostenlosen-smartbroker-depots-5-trades-notwendig-2852684",
@@ -219,7 +285,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "e89b5ac478ed"
   },
   {
    "id": "https://www.mydealz.de/deals/easybank-depot-keine-gettex-ordergebuhren-bis-zum-31032027-100eur-werbepramie-2861472",
@@ -236,7 +303,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": "2026-11-01T13:10:22+00:00"
+   "gepusht": "2026-11-01T13:10:22+00:00",
+   "rid": "aecc90727093"
   },
   {
    "id": "https://www.mydealz.de/deals/revolut-girokonto-100-eur-kwk-pramie-schufafrei-personalisiert-2861013",
@@ -253,7 +321,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "a3b7f0750843"
   },
   {
    "id": "https://www.mydealz.de/deals/1822direkt-spartanien-300eur-pramie-50eur-von-spartanien-fur-depot-eroffnung-oder-alternativ-130eur-kwk-11-trades-und-sparplan-notwendig-2860052",
@@ -270,7 +339,8 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "db5a7f0891c4"
   },
   {
    "id": "https://www.mydealz.de/deals/kostenlose-krak-card-mastercard-debit-kwk-10eur10eur-30-tage-2-cashback-fur-geworbenen-2861918",
@@ -287,10 +357,191 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "a59be24925df"
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-advanced-llm-prompt-injection-vulnerabilities",
+   "titel": "Exploiting LLM prompt injection vulnerabilities",
+   "link": "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-advanced-llm-prompt-injection-vulnerabilities",
+   "quelle": "Intigriti Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": 4,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "8da90d79db74"
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=8818",
+   "titel": "Build where you want, run with confidence: Now Microsoft hosts and manages the code created by Copilot",
+   "link": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/build-where-you-want-run-with-confidence-now-microsoft-hosts-and-manages-the-code-created-by-copilot/",
+   "quelle": "Microsoft Copilot Studio Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 2,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Copilot Studio",
+   "nutzen": 4,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "ccbf59809223"
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/copilot/blog/?p=282083",
+   "titel": "Build apps in Copilot Cowork and Copilot Studio",
+   "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/",
+   "quelle": "Microsoft 365 / Copilot Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 2,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Copilot Studio",
+   "nutzen": 4,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "17dff41e915d"
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133123",
+   "titel": "Breaking down the facts about secure development with Power Platform",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/01/26/breaking-down-the-facts-about-secure-development-with-power-platform/",
+   "quelle": "Microsoft Power Automate Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 4,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "8c98d2ada1f1"
+  },
+  {
+   "id": "https://www.intigriti.com/blog/business-insights/ai-raised-the-floor-the-hacker-crowd-keeps-raising-the-ceiling",
+   "titel": "AI raised the floor. The hacker crowd keeps raising the ceiling.",
+   "link": "https://www.intigriti.com/blog/business-insights/ai-raised-the-floor-the-hacker-crowd-keeps-raising-the-ceiling",
+   "quelle": "Intigriti Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": 3,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "82627ad42490"
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135112",
+   "titel": "Simplify Site Governance with Self-Service Ownership Transfer in Power Pages",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/transfer-power-pages-site-ownership-with-self-service/",
+   "quelle": "Microsoft Power Platform Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 2,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 3,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "01a2fca5569a"
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133081",
+   "titel": "New enhancements to work queues that will transform how your teams manage and monitor automated workflows.",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/new-enhancements-to-work-queues-that-will-transform-how-your-teams-manage-and-monitor-automated-workflows/",
+   "quelle": "Microsoft Power Automate Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 2,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 3,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "a1709ba2c516"
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/copilot/blog/?p=282005",
+   "titel": "PPCC 2026: Bringing AI and your business processes together",
+   "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/",
+   "quelle": "Microsoft 365 / Copilot Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Pre-Sales",
+   "nutzen": 3,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "8fdcf782bbb7"
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=132325",
+   "titel": "Take Charge and Stay Ahead with Power Platform Monitor Alerts",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/take-charge-and-stay-ahead-with-power-platform-monitor-alerts/",
+   "quelle": "Microsoft Power Automate Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 3,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "b821b1755bac"
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=132197",
+   "titel": "Effortless Visibility and Operational Insights for All with Monitor",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/effortless-visibility-and-operational-insights-for-all-with-monitor/",
+   "quelle": "Microsoft Power Automate Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 3,
+   "gefunden": "2026-11-01T15:03:21+00:00",
+   "gepusht": null,
+   "rid": "4b53a54426a1"
+  },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133597",
    "titel": "2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot Studio offerings",
@@ -306,7 +557,8 @@
    "thema": "Power Platform",
    "nutzen": 4,
    "gefunden": "2026-11-01T13:10:22+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "ce9ed58bc927"
   },
   {
    "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=8863",
@@ -323,7 +575,8 @@
    "thema": "Copilot Studio",
    "nutzen": 4,
    "gefunden": "2026-11-01T13:10:22+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "f8e6e828953f"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135138",
@@ -340,7 +593,8 @@
    "thema": "Power Platform",
    "nutzen": 3,
    "gefunden": "2026-11-01T13:10:22+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "f885f50afee5"
   },
   {
    "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=9036",
@@ -357,7 +611,8 @@
    "thema": "Copilot Studio",
    "nutzen": 3,
    "gefunden": "2026-11-01T13:10:22+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "1d34c06210d0"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133523",
@@ -374,7 +629,8 @@
    "thema": "Power Platform",
    "nutzen": 3,
    "gefunden": "2026-11-01T13:10:22+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "e4e17e02ed0a"
   },
   {
    "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=8951",
@@ -391,7 +647,8 @@
    "thema": "Copilot Studio",
    "nutzen": 3,
    "gefunden": "2026-11-01T13:10:22+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "cd454d4a0be5"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135102",
@@ -408,7 +665,8 @@
    "thema": "KI & Agenten",
    "nutzen": 3,
    "gefunden": "2026-11-01T13:10:22+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "57c79bad39b1"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135320",
@@ -425,7 +683,8 @@
    "thema": "KI & Agenten",
    "nutzen": 4,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "dc73e83648a4"
   },
   {
    "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=9088",
@@ -442,7 +701,8 @@
    "thema": "Copilot Studio",
    "nutzen": 4,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "6ae90cd8d982"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133677",
@@ -459,7 +719,8 @@
    "thema": "Power Platform",
    "nutzen": 4,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "6e5e1dd4c469"
   },
   {
    "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=9105",
@@ -476,7 +737,8 @@
    "thema": "Copilot Studio",
    "nutzen": 4,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "2323f4474670"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=134894",
@@ -493,7 +755,8 @@
    "thema": "Karriere",
    "nutzen": 3,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "c43a10f98f6a"
   },
   {
    "id": "https://www.microsoft.com/en-us/copilot/blog/?p=282317",
@@ -510,7 +773,8 @@
    "thema": "KI & Agenten",
    "nutzen": 3,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "f8fd4664c9c8"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135248",
@@ -527,7 +791,8 @@
    "thema": "Pre-Sales",
    "nutzen": 3,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "57d3c3abd609"
   },
   {
    "id": "https://www.microsoft.com/en-us/copilot/blog/?p=282251",
@@ -544,7 +809,8 @@
    "thema": "KI & Agenten",
    "nutzen": 3,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "2d0dc42fe241"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135135",
@@ -561,7 +827,8 @@
    "thema": "Power Platform",
    "nutzen": 3,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "ade5243e0b42"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135388",
@@ -578,7 +845,8 @@
    "thema": "Power Platform",
    "nutzen": 4,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "5a3ff8788438"
   },
   {
    "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?post_type=copilot&p=8383",
@@ -595,7 +863,8 @@
    "thema": "Copilot Studio",
    "nutzen": 4,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "8c2b300a175e"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135333",
@@ -612,7 +881,8 @@
    "thema": "Power Platform",
    "nutzen": 4,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "d02380a43e90"
   },
   {
    "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?post_type=copilot&p=8289",
@@ -629,7 +899,8 @@
    "thema": "Copilot Studio",
    "nutzen": 4,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "5c6a6fcabcfa"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=134999",
@@ -646,7 +917,8 @@
    "thema": "Power Platform",
    "nutzen": 4,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "137f028cf62e"
   },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135017",
@@ -663,7 +935,8 @@
    "thema": "KI & Agenten",
    "nutzen": 4,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "083b00a28b02"
   },
   {
    "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?post_type=copilot&p=8252",
@@ -680,7 +953,8 @@
    "thema": "Pre-Sales",
    "nutzen": 3,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null
+   "gepusht": null,
+   "rid": "d6cf53e95441"
   }
  ]
 }
