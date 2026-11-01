@@ -1,6 +1,23 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/epic-games-epic-world-freebie-2862766",
+   "titel": "150° - [Epic Games Store] kostenlos Epic World Hunt for quest (01.11.2026 - 08.11.2026)",
+   "link": "https://www.mydealz.de/deals/epic-games-epic-world-freebie-2862766",
+   "quelle": "mydealz – Hot Deals",
+   "bereich": "privat",
+   "prioritaet": 2,
+   "score": 6,
+   "kategorie": "Gratis",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": "2026-11-08",
+   "thema": "Sonstiges",
+   "nutzen": null,
+   "gefunden": "2026-11-01T13:10:22+00:00",
+   "gepusht": null
+  },
+  {
    "id": "https://www.mydealz.de/deals/kostenloses-norisbank-girokonto-200-eur-pramie-25-tagesgeldzinsen-2857505",
    "titel": "norisbank Top-Girokonto: 200 € Neukundenprämie + 120 € KWK (teilbar) | kostenlos ab 500 € GE oder unter 30 Jahren",
    "link": "https://www.mydealz.de/deals/kostenloses-norisbank-girokonto-200-eur-pramie-25-tagesgeldzinsen-2857505",
@@ -15,7 +32,7 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": "2026-11-01T13:10:22+00:00"
   },
   {
    "id": "https://www.mydealz.de/deals/25-pa-zinsen-120eur-pramie-fur-das-norisbank-girokonto-2855884",
@@ -32,7 +49,7 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": "2026-11-01T13:10:22+00:00"
   },
   {
    "id": "https://www.mydealz.de/deals/fidelity-kostenloses-depot-mit-sonderkonditionen-zb-vl-sparplan-gratis-150-pramie-50-fur-vl-sparplan-50-einmalanlage-50-sparplan-2855043",
@@ -49,7 +66,7 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null
+   "gepusht": "2026-11-01T13:10:22+00:00"
   },
   {
    "id": "https://www.mydealz.de/deals/spartanien-traders-place-depot-mit-135eur-pramie-75eur-spartanien-60eur-neukundenbonus-mind-3-trades-a-100eur-1000eur-portfoliowert-eid-2856713",
@@ -219,7 +236,7 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null
+   "gepusht": "2026-11-01T13:10:22+00:00"
   },
   {
    "id": "https://www.mydealz.de/deals/revolut-girokonto-100-eur-kwk-pramie-schufafrei-personalisiert-2861013",
@@ -274,6 +291,125 @@
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133597",
+   "titel": "2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot Studio offerings",
+   "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/18/2026-release-wave-1-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-copilot-studio-offerings/",
+   "quelle": "Microsoft Power Automate Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 4,
+   "gefunden": "2026-11-01T13:10:22+00:00",
+   "gepusht": null
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=8863",
+   "titel": "4 ways to learn how to build with Microsoft Copilot Studio",
+   "link": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/4-ways-to-learn-how-to-build-with-microsoft-copilot-studio/",
+   "quelle": "Microsoft Copilot Studio Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Copilot Studio",
+   "nutzen": 4,
+   "gefunden": "2026-11-01T13:10:22+00:00",
+   "gepusht": null
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135138",
+   "titel": "Create Power Pages sites in minutes with SPA templates",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/create-power-pages-sites-in-minutes-with-spa-templates/",
+   "quelle": "Microsoft Power Platform Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 3,
+   "gefunden": "2026-11-01T13:10:22+00:00",
+   "gepusht": null
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=9036",
+   "titel": "Delegate shared business processes to agents that are more persistent and proactive with Microsoft Copilot Studio",
+   "link": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/delegate-shared-business-processes-to-agents-that-are-more-persistent-and-proactive-with-microsoft-copilot-studio/",
+   "quelle": "Microsoft Copilot Studio Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Copilot Studio",
+   "nutzen": 3,
+   "gefunden": "2026-11-01T13:10:22+00:00",
+   "gepusht": null
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133523",
+   "titel": "What’s new in Power Platform: March 2026 feature update",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-march-2026-feature-update/",
+   "quelle": "Microsoft Power Automate Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 3,
+   "gefunden": "2026-11-01T13:10:22+00:00",
+   "gepusht": null
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=8951",
+   "titel": "New and improved: Build apps, extend agents, and transform business processes in Microsoft Copilot Studio",
+   "link": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/new-and-improved-build-apps-extend-agents-and-transform-business-processes-in-microsoft-copilot-studio/",
+   "quelle": "Microsoft Copilot Studio Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Copilot Studio",
+   "nutzen": 3,
+   "gefunden": "2026-11-01T13:10:22+00:00",
+   "gepusht": null
+  },
+  {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135102",
+   "titel": "Your AI transformation starts with what you’ve already built",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/your-ai-transformation-starts-with-what-youve-already-built/",
+   "quelle": "Microsoft Power Platform Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": 3,
+   "gefunden": "2026-11-01T13:10:22+00:00",
+   "gepusht": null
+  },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135320",
    "titel": "AI that understands your business: Dataverse and Work IQ at PPCC 2026",
