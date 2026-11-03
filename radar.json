@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/consorsbank-girokonto-mit-200eur-pramie-2863995",
+   "titel": "Consorsbank Girokonto mit 200€ (bis zu 300€ mit kwk) Prämie",
+   "link": "https://www.mydealz.de/deals/consorsbank-girokonto-mit-200eur-pramie-2863995",
+   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
+   "bereich": "privat",
+   "prioritaet": 1,
+   "score": 7,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 200,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-03T10:44:02+00:00",
+   "gepusht": null,
+   "rid": "d4c41742e830"
+  },
+  {
    "id": "https://www.mydealz.de/deals/payback-readly-2-monate-testen-650-punkte-extra-2863385",
    "titel": "120° - [Payback] Readly 2 Monate testen + 650 Punkte Extra",
    "link": "https://www.mydealz.de/deals/payback-readly-2-monate-testen-650-punkte-extra-2863385",
@@ -668,6 +686,42 @@
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.yeswehack.com/en/blog/server-side-request-forgery-ssrf",
+   "titel": "Server-side request forgery: The ultimate Bug Bounty guide to exploiting SSRF vulnerabilities",
+   "link": "https://www.yeswehack.com/en/blog/server-side-request-forgery-ssrf",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Sonstiges",
+   "nutzen": 3,
+   "gefunden": "2026-11-03T10:44:02+00:00",
+   "gepusht": null,
+   "rid": "4c8028c1c498"
+  },
+  {
+   "id": "https://www.yeswehack.com/en/blog/ultimate-guide-os-command-injection",
+   "titel": "The ultimate Bug Bounty guide to OS command injection vulnerabilities",
+   "link": "https://www.yeswehack.com/en/blog/ultimate-guide-os-command-injection",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Sonstiges",
+   "nutzen": 3,
+   "gefunden": "2026-11-03T10:44:02+00:00",
+   "gepusht": null,
+   "rid": "e4d601066675"
+  },
   {
    "id": "https://www.yeswehack.com/en/blog/yeswehack-agentic-pentest",
    "titel": "YesWeHack launches Agentic Pentest for AI security testing",
