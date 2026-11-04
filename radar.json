@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
+   "titel": "Askable: Software Engineer, AI Coding Tasks (Contract)",
+   "link": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
+   "quelle": "We Work Remotely – Programming",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 7,
+   "kategorie": "Auftrag",
+   "rechtsAmpel": "gelb",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": null,
+   "gefunden": "2026-11-04T14:19:11+00:00",
+   "gepusht": null,
+   "rid": "10c2169544e7"
+  },
+  {
    "id": "https://www.mydealz.de/deals/tf-bank-mastercard-gold-black-friday-deal-fur-jede-erfolgreiche-empfehlung-erhalten-sie-und-ihre-geworbene-person-jeweils-50-eur-bonus-2864434",
    "titel": "TF Bank Mastercard Gold Black Friday Deal: Für jede erfolgreiche Empfehlung erhalten Sie und Ihre geworbene Person jeweils 50 € Bonus",
    "link": "https://www.mydealz.de/deals/tf-bank-mastercard-gold-black-friday-deal-fur-jede-erfolgreiche-empfehlung-erhalten-sie-und-ihre-geworbene-person-jeweils-50-eur-bonus-2864434",
@@ -704,6 +722,24 @@
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.intigriti.com/blog/business-insights/the-ai-pentesting-wave-pay-for-effort-vs-pay-for-impact",
+   "titel": "The AI Pentesting wave. Pay for effort vs pay for impact.",
+   "link": "https://www.intigriti.com/blog/business-insights/the-ai-pentesting-wave-pay-for-effort-vs-pay-for-impact",
+   "quelle": "Intigriti Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": 3,
+   "gefunden": "2026-11-04T14:19:11+00:00",
+   "gepusht": null,
+   "rid": "967a6a914dcf"
+  },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135401",
    "titel": "Dataverse goes where you build: Copilot Cowork, coding agents and n8n",
@@ -1765,24 +1801,6 @@
    "gefunden": "2026-10-31T23:07:50+00:00",
    "gepusht": null,
    "rid": "5c6a6fcabcfa"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=134999",
-   "titel": "What’s new in Power Platform: September 2026 feature update",
-   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-september-2026-feature-update/",
-   "quelle": "Microsoft Power Automate Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 5,
-   "kategorie": "Lernen",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Power Platform",
-   "nutzen": 4,
-   "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null,
-   "rid": "137f028cf62e"
   }
  ]
 }
