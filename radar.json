@@ -741,6 +741,24 @@
  ],
  "wissen": [
   {
+   "id": "https://www.yeswehack.com/en/blog/ai-cybersecurity-risks-bug-bounty",
+   "titel": "Mitigating AI cybersecurity risks with Bug Bounty Programs: A deep dive",
+   "link": "https://www.yeswehack.com/en/blog/ai-cybersecurity-risks-bug-bounty",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": 3,
+   "gefunden": "2026-11-05T02:14:18+00:00",
+   "gepusht": null,
+   "rid": "4b728a9b0eda"
+  },
+  {
    "id": "https://www.yeswehack.com/en/blog/recon-port-scanning-attack-vectors",
    "titel": "Recon series #4: Port scanning – uncovering attack vectors by revealing open ports and hidden services",
    "link": "https://www.yeswehack.com/en/blog/recon-port-scanning-attack-vectors",
@@ -1801,24 +1819,6 @@
    "gefunden": "2026-11-01T05:48:46+00:00",
    "gepusht": null,
    "rid": "ade5243e0b42"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135388",
-   "titel": "From one prompt to a governed Dataverse app: the Dataverse plugin lands in Copilot Cowork",
-   "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/28/dataverse-plugin-copilot-cowork/",
-   "quelle": "Microsoft Power Platform Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 5,
-   "kategorie": "Fachwissen",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Power Platform",
-   "nutzen": 4,
-   "gefunden": "2026-10-31T23:07:50+00:00",
-   "gepusht": null,
-   "rid": "5a3ff8788438"
   }
  ]
 }
