@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "https://jobicy.com/jobs/159099-bulgarian-localization-qa-tester-proofreader",
+   "titel": "Bulgarian Localization QA Tester / Proofreader",
+   "link": "https://jobicy.com/jobs/159099-bulgarian-localization-qa-tester-proofreader",
+   "quelle": "Jobicy – Remote Jobs",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 6,
+   "kategorie": "Ausschreibung",
+   "rechtsAmpel": "gelb",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Karriere",
+   "nutzen": null,
+   "gefunden": "2026-11-05T10:42:38+00:00",
+   "gepusht": null,
+   "rid": "32d4cecbff68"
+  },
+  {
    "id": "https://www.mydealz.de/deals/comdirect-kwk-auf-75eur-angehoben-2864762",
    "titel": "[Comdirect] KwK auf 75€ angehoben",
    "link": "https://www.mydealz.de/deals/comdirect-kwk-auf-75eur-angehoben-2864762",
@@ -740,6 +758,24 @@
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.yeswehack.com/en/blog/dompurify-bypasses-chatgpt-ai-fuzz",
+   "titel": "DOMPurify bypasses, prompt injecting ChatGPT to shell, AI fuzz finds – ethical hacker news roundup",
+   "link": "https://www.yeswehack.com/en/blog/dompurify-bypasses-chatgpt-ai-fuzz",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": 3,
+   "gefunden": "2026-11-05T10:42:38+00:00",
+   "gepusht": null,
+   "rid": "fcdd0c4db784"
+  },
   {
    "id": "https://www.yeswehack.com/en/blog/ai-cybersecurity-risks-bug-bounty",
    "titel": "Mitigating AI cybersecurity risks with Bug Bounty Programs: A deep dive",
@@ -1801,24 +1837,6 @@
    "gefunden": "2026-11-01T05:48:46+00:00",
    "gepusht": null,
    "rid": "2d0dc42fe241"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135135",
-   "titel": "Go multilingual with the Power Pages plugin",
-   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/go-multilingual-with-the-power-pages-plugin/",
-   "quelle": "Microsoft Power Platform Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 4,
-   "kategorie": "Fachwissen",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Power Platform",
-   "nutzen": 3,
-   "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null,
-   "rid": "ade5243e0b42"
   }
  ]
 }
