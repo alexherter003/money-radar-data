@@ -831,6 +831,24 @@
  ],
  "wissen": [
   {
+   "id": "https://www.yeswehack.com/en/blog/smart-automation-with-burp-suite",
+   "titel": "Smart Automation With Burp Suite",
+   "link": "https://www.yeswehack.com/en/blog/smart-automation-with-burp-suite",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Sonstiges",
+   "nutzen": 3,
+   "gefunden": "2026-11-06T14:57:10+00:00",
+   "gepusht": null,
+   "rid": "226b66fd25c7"
+  },
+  {
    "id": "https://www.yeswehack.com/en/blog/RL-building-bug-bounty-career",
    "titel": "‘Hunters’ biggest mistake? Expecting immediate results’: ‘RL’ on building a Bug Bounty career",
    "link": "https://www.yeswehack.com/en/blog/RL-building-bug-bounty-career",
@@ -1891,24 +1909,6 @@
    "gefunden": "2026-11-01T05:48:46+00:00",
    "gepusht": null,
    "rid": "c43a10f98f6a"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/copilot/blog/?p=282317",
-   "titel": "The AI advantage your company can keep",
-   "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-   "quelle": "Microsoft 365 / Copilot Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 4,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "KI & Agenten",
-   "nutzen": 3,
-   "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null,
-   "rid": "f8fd4664c9c8"
   }
  ]
 }
