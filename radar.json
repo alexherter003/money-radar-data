@@ -15,7 +15,7 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-06T00:04:49+00:00",
-   "gepusht": null,
+   "gepusht": "2026-11-06T06:24:57+00:00",
    "rid": "6b94b9db5460"
   },
   {
@@ -830,6 +830,24 @@
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.yeswehack.com/en/blog/RL-building-bug-bounty-career",
+   "titel": "‘Hunters’ biggest mistake? Expecting immediate results’: ‘RL’ on building a Bug Bounty career",
+   "link": "https://www.yeswehack.com/en/blog/RL-building-bug-bounty-career",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Karriere",
+   "nutzen": 3,
+   "gefunden": "2026-11-06T06:24:57+00:00",
+   "gepusht": null,
+   "rid": "96509f71bcc8"
+  },
   {
    "id": "https://www.yeswehack.com/en/blog/louis-vuitton-live-hacking-event",
    "titel": "Hack Me I’m Famous #2: Louis Vuitton sets trend with first live hacking event in luxury fashion sector",
@@ -1891,24 +1909,6 @@
    "gefunden": "2026-11-01T05:48:46+00:00",
    "gepusht": null,
    "rid": "f8fd4664c9c8"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135248",
-   "titel": "Microsoft named a Leader in two evaluations of next-generation app development platforms",
-   "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/22/microsoft-named-a-leader-in-two-evaluations-of-next-generation-app-development-platforms/",
-   "quelle": "Microsoft Power Platform Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 5,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Pre-Sales",
-   "nutzen": 3,
-   "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null,
-   "rid": "57d3c3abd609"
   }
  ]
 }
