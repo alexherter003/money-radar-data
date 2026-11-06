@@ -1,6 +1,42 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/comdirect-bis-zu-1250-eur-pramie-fur-geldanlage-2865625",
+   "titel": "comdirect - bis zu 1250 € Prämie für Geldanlage",
+   "link": "https://www.mydealz.de/deals/comdirect-bis-zu-1250-eur-pramie-fur-geldanlage-2865625",
+   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
+   "bereich": "privat",
+   "prioritaet": 1,
+   "score": 8,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 1250,
+   "frist": "2027-01-15",
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-06T00:04:49+00:00",
+   "gepusht": null,
+   "rid": "6b94b9db5460"
+  },
+  {
+   "id": "https://www.mydealz.de/deals/dji-power-1000-mini-tragbare-powerstation-1008-wh-lfp-akku-1000-w-ausgangsleistung-2865371",
+   "titel": "118° - DJI Power 1000 Mini tragbare Powerstation, 1008 Wh LFP-Akku, 1000 W Ausgangsleistung (Joyplus)",
+   "link": "https://www.mydealz.de/deals/dji-power-1000-mini-tragbare-powerstation-1008-wh-lfp-akku-1000-w-ausgangsleistung-2865371",
+   "quelle": "mydealz – Hot Deals",
+   "bereich": "privat",
+   "prioritaet": 2,
+   "score": 6,
+   "kategorie": "Deal",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 200,
+   "frist": null,
+   "thema": "Sonstiges",
+   "nutzen": null,
+   "gefunden": "2026-11-06T00:04:49+00:00",
+   "gepusht": null,
+   "rid": "9649925be03d"
+  },
+  {
    "id": "https://www.doctorofcredit.com/?p=268347?d=20261105",
    "titel": "Farmers Insurance Federal Credit Union (FIGFCU) Up To $1,500 Business Checking Bonus",
    "link": "https://www.doctorofcredit.com/farmers-insurance-federal-credit-union-figfcu-up-to-1500-business-checking-bonus/",
@@ -794,6 +830,24 @@
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.yeswehack.com/en/blog/louis-vuitton-live-hacking-event",
+   "titel": "Hack Me I’m Famous #2: Louis Vuitton sets trend with first live hacking event in luxury fashion sector",
+   "link": "https://www.yeswehack.com/en/blog/louis-vuitton-live-hacking-event",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Sonstiges",
+   "nutzen": 3,
+   "gefunden": "2026-11-06T00:04:49+00:00",
+   "gepusht": null,
+   "rid": "51a8431fd179"
+  },
   {
    "id": "https://www.yeswehack.com/en/blog/dompurify-bypasses-chatgpt-ai-fuzz",
    "titel": "DOMPurify bypasses, prompt injecting ChatGPT to shell, AI fuzz finds – ethical hacker news roundup",
@@ -1855,24 +1909,6 @@
    "gefunden": "2026-11-01T05:48:46+00:00",
    "gepusht": null,
    "rid": "57d3c3abd609"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/copilot/blog/?p=282251",
-   "titel": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
-   "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
-   "quelle": "Microsoft 365 / Copilot Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 4,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "KI & Agenten",
-   "nutzen": 3,
-   "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null,
-   "rid": "2d0dc42fe241"
   }
  ]
 }
