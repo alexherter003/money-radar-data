@@ -831,6 +831,24 @@
  ],
  "wissen": [
   {
+   "id": "https://www.yeswehack.com/en/blog/black-box-testing-techniques-web-application",
+   "titel": "Web Application Black-Box Testing",
+   "link": "https://www.yeswehack.com/en/blog/black-box-testing-techniques-web-application",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Sonstiges",
+   "nutzen": 3,
+   "gefunden": "2026-11-06T20:49:57+00:00",
+   "gepusht": null,
+   "rid": "2b2fddfc9b91"
+  },
+  {
    "id": "https://www.yeswehack.com/en/blog/smart-automation-with-burp-suite",
    "titel": "Smart Automation With Burp Suite",
    "link": "https://www.yeswehack.com/en/blog/smart-automation-with-burp-suite",
@@ -1891,24 +1909,6 @@
    "gefunden": "2026-11-01T05:48:46+00:00",
    "gepusht": null,
    "rid": "2323f4474670"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=134894",
-   "titel": "Register now for PPCC 2026: Come for the learning, stay for the community",
-   "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/08/13/register-now-for-ppcc-2026-come-for-the-learning-stay-for-the-community/",
-   "quelle": "Microsoft Power Automate Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 4,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Karriere",
-   "nutzen": 3,
-   "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null,
-   "rid": "c43a10f98f6a"
   }
  ]
 }
