@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/165-eur-pramie-umweltbank-spartanien-2866578",
+   "titel": "165 € Prämie - Umweltbank (Spartanien)",
+   "link": "https://www.mydealz.de/deals/165-eur-pramie-umweltbank-spartanien-2866578",
+   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
+   "bereich": "privat",
+   "prioritaet": 1,
+   "score": 8,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 115,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-07T18:39:46+00:00",
+   "gepusht": "2026-11-07T18:39:46+00:00",
+   "rid": "e1bf4f4dc7d5"
+  },
+  {
    "id": "https://www.mydealz.de/deals/comdirect-bis-zu-1250-eur-pramie-fur-geldanlage-2865625",
    "titel": "comdirect - bis zu 1250 € Prämie für Geldanlage",
    "link": "https://www.mydealz.de/deals/comdirect-bis-zu-1250-eur-pramie-fur-geldanlage-2865625",
@@ -830,6 +848,24 @@
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.yeswehack.com/en/blog/how-to-learn-write-burp-suite-extension-kotlin-setting-up",
+   "titel": "How-To: Learn how to write a Burp Suite extension in Kotlin – Setting up",
+   "link": "https://www.yeswehack.com/en/blog/how-to-learn-write-burp-suite-extension-kotlin-setting-up",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Zertifikate",
+   "nutzen": 3,
+   "gefunden": "2026-11-07T18:39:46+00:00",
+   "gepusht": null,
+   "rid": "062afb4c4a1e"
+  },
   {
    "id": "https://www.yeswehack.com/en/blog/black-box-testing-techniques-web-application",
    "titel": "Web Application Black-Box Testing",
@@ -1891,24 +1927,6 @@
    "gefunden": "2026-11-01T05:48:46+00:00",
    "gepusht": null,
    "rid": "6e5e1dd4c469"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=9105",
-   "titel": "Introducing the customer conversation harness in Microsoft Copilot Studio",
-   "link": "https://techcommunity.microsoft.com/blog/copilot-studio-blog/introducing-the-customer-conversation-harness-in-microsoft-copilot-studio/4563954",
-   "quelle": "Microsoft Copilot Studio Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 5,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Copilot Studio",
-   "nutzen": 4,
-   "gefunden": "2026-11-01T05:48:46+00:00",
-   "gepusht": null,
-   "rid": "2323f4474670"
   }
  ]
 }
