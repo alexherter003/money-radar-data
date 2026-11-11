@@ -1,6 +1,60 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/comdirect-kwk-auf-75eur-angehoben-2864762",
+   "titel": "[Comdirect] KwK auf 75€ angehoben",
+   "link": "https://www.mydealz.de/deals/comdirect-kwk-auf-75eur-angehoben-2864762",
+   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
+   "bereich": "privat",
+   "prioritaet": 1,
+   "score": 7,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 75,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-11T21:15:17+00:00",
+   "gepusht": null,
+   "rid": "e3b9dbe0edc5"
+  },
+  {
+   "id": "https://www.mydealz.de/deals/sap-zertifizierung-joule-studio-developer-c-jsd-kostenlos-1-prufungsversuch-24h-ubungsumgebung-2869320",
+   "titel": "113° - SAP-Zertifizierung Joule Studio Developer (C_JSD) kostenlos: 1 Prüfungsversuch + 24h Übungsumgebung",
+   "link": "https://www.mydealz.de/deals/sap-zertifizierung-joule-studio-developer-c-jsd-kostenlos-1-prufungsversuch-24h-ubungsumgebung-2869320",
+   "quelle": "mydealz – Hot Deals",
+   "bereich": "privat",
+   "prioritaet": 2,
+   "score": 7,
+   "kategorie": "Deal",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Zertifikate",
+   "nutzen": null,
+   "gefunden": "2026-11-11T21:15:17+00:00",
+   "gepusht": null,
+   "rid": "fa94b589c003"
+  },
+  {
+   "id": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
+   "titel": "Proxify AB: Senior Backend Developer (Python)",
+   "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
+   "quelle": "We Work Remotely – Programming",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 6,
+   "kategorie": "Auftrag",
+   "rechtsAmpel": "gelb",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": null,
+   "gefunden": "2026-11-11T21:15:17+00:00",
+   "gepusht": null,
+   "rid": "b065bceb00c4"
+  },
+  {
    "id": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
    "titel": "Askable: Software Engineer, AI Coding Tasks (Contract)",
    "link": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
@@ -649,24 +703,6 @@
    "rid": "32d4cecbff68"
   },
   {
-   "id": "https://www.mydealz.de/deals/comdirect-kwk-auf-75eur-angehoben-2864762",
-   "titel": "[Comdirect] KwK auf 75€ angehoben",
-   "link": "https://www.mydealz.de/deals/comdirect-kwk-auf-75eur-angehoben-2864762",
-   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
-   "bereich": "privat",
-   "prioritaet": 1,
-   "score": 7,
-   "kategorie": "Bankprämie",
-   "rechtsAmpel": "gelb",
-   "nettoBest": 75,
-   "frist": null,
-   "thema": "Geld",
-   "nutzen": null,
-   "gefunden": "2026-11-04T21:15:03+00:00",
-   "gepusht": null,
-   "rid": "e3b9dbe0edc5"
-  },
-  {
    "id": "https://www.mydealz.de/deals/payback-readly-2-monate-testen-650-punkte-extra-2863385",
    "titel": "120° - [Payback] Readly 2 Monate testen + 650 Punkte Extra",
    "link": "https://www.mydealz.de/deals/payback-readly-2-monate-testen-650-punkte-extra-2863385",
@@ -1010,6 +1046,24 @@
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135130",
+   "titel": "What’s new in Power Platform: October/November 2026 feature update",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-october-2026-feature-update/",
+   "quelle": "Microsoft Power Automate Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 5,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 5,
+   "gefunden": "2026-11-11T21:15:17+00:00",
+   "gepusht": null,
+   "rid": "716ca5073fd7"
+  },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135401",
    "titel": "Dataverse goes where you build: Copilot Cowork, coding agents and n8n",
@@ -2071,24 +2125,6 @@
    "gefunden": "2026-11-08T21:03:05+00:00",
    "gepusht": null,
    "rid": "6ae90cd8d982"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=9111",
-   "titel": "Microsoft named a Leader in two evaluations of next-generation app development platforms",
-   "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/22/microsoft-named-a-leader-in-two-evaluations-of-next-generation-app-development-platforms/",
-   "quelle": "Microsoft Copilot Studio Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 3,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Pre-Sales",
-   "nutzen": 3,
-   "gefunden": "2026-11-08T21:03:05+00:00",
-   "gepusht": null,
-   "rid": "57d3c3abd609"
   }
  ]
 }
