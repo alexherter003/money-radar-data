@@ -1047,6 +1047,24 @@
  ],
  "wissen": [
   {
+   "id": "https://www.yeswehack.com/en/blog/rabhi-root-bug-bounty-blueprint",
+   "titel": "The rabhi route to root: Our all-time #1 hunter shares his Bug Bounty blueprint",
+   "link": "https://www.yeswehack.com/en/blog/rabhi-root-bug-bounty-blueprint",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Sonstiges",
+   "nutzen": 3,
+   "gefunden": "2026-11-12T10:53:57+00:00",
+   "gepusht": null,
+   "rid": "836dfbe1da41"
+  },
+  {
    "id": "https://www.yeswehack.com/en/blog/dojo-challenge-solution-46",
    "titel": "Dojo challenge #46 Ghost whisper solution",
    "link": "https://www.yeswehack.com/en/blog/dojo-challenge-solution-46",
@@ -2107,24 +2125,6 @@
    "gefunden": "2026-11-08T21:03:05+00:00",
    "gepusht": null,
    "rid": "5a3ff8788438"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=134999",
-   "titel": "What’s new in Power Platform: September 2026 feature update",
-   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-september-2026-feature-update/",
-   "quelle": "Microsoft Power Automate Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 4,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Power Platform",
-   "nutzen": 4,
-   "gefunden": "2026-11-08T21:03:05+00:00",
-   "gepusht": null,
-   "rid": "137f028cf62e"
   }
  ]
 }
