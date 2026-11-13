@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/neukunden-comdirect-pure-depot-100-eur-bestchoice-gutschein-50-eur-bankpramie-kein-tradesparplan-notig-monsterdealz-2870937",
+   "titel": "[Neukunden] comdirect Pure Depot: 100 € BestChoice-Gutschein + 50 € Bankprämie – kein Trade/Sparplan nötig (MonsterDealz)",
+   "link": "https://www.mydealz.de/deals/neukunden-comdirect-pure-depot-100-eur-bestchoice-gutschein-50-eur-bankpramie-kein-tradesparplan-notig-monsterdealz-2870937",
+   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
+   "bereich": "privat",
+   "prioritaet": 1,
+   "score": 8,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 150,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-13T21:55:26+00:00",
+   "gepusht": null,
+   "rid": "51be6022ff1c"
+  },
+  {
    "id": "https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Bund/BMEL/robotik-automatisierung-landwirtschaft.html?etcc_cmp=RSS&etcc_med=RSS-Feed&et_cmp_seg5=RSS-Feed",
    "titel": "Förderung zur Arbeitserleichterung und Erhöhung der Arbeitsproduktivität durch Robotik und Automatisierungslösungen",
    "link": "https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Bund/BMEL/robotik-automatisierung-landwirtschaft.html?etcc_cmp=RSS&etcc_med=RSS-Feed&et_cmp_seg5=RSS-Feed",
@@ -1155,6 +1173,42 @@
  ],
  "wissen": [
   {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135582",
+   "titel": "Act faster: hourly alerts for your critical flows, apps, and agents",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/11/11/act-faster-hourly-alerts-for-your-critical-flows-apps-and-agents/",
+   "quelle": "Microsoft Power Platform Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 5,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 5,
+   "gefunden": "2026-11-13T21:55:26+00:00",
+   "gepusht": null,
+   "rid": "e3716261df57"
+  },
+  {
+   "id": "https://www.yeswehack.com/en/blog/nis-2-directive-vulnerability-management",
+   "titel": "The NIS 2 Directive is now enforceable: What are the implications for vulnerability management?",
+   "link": "https://www.yeswehack.com/en/blog/nis-2-directive-vulnerability-management",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Sonstiges",
+   "nutzen": 3,
+   "gefunden": "2026-11-13T21:55:26+00:00",
+   "gepusht": null,
+   "rid": "819528903f61"
+  },
+  {
    "id": "https://www.yeswehack.com/en/blog/dojo-ctf-challenge-winners-38",
    "titel": "Dojo challenge #38 - Xmas wishlist, winners and writeup",
    "link": "https://www.yeswehack.com/en/blog/dojo-ctf-challenge-winners-38",
@@ -2197,42 +2251,6 @@
    "gefunden": "2026-11-09T07:52:28+00:00",
    "gepusht": null,
    "rid": "f885f50afee5"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=8951",
-   "titel": "New and improved: Build apps, extend agents, and transform business processes in Microsoft Copilot Studio",
-   "link": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/new-and-improved-build-apps-extend-agents-and-transform-business-processes-in-microsoft-copilot-studio/",
-   "quelle": "Microsoft Copilot Studio Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 3,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Copilot Studio",
-   "nutzen": 3,
-   "gefunden": "2026-11-09T07:52:28+00:00",
-   "gepusht": null,
-   "rid": "cd454d4a0be5"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135017",
-   "titel": "Custom APIs just landed in the Dataverse MCP Server, Agents just got smarter",
-   "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/26/custom-apis-just-landed-in-the-dataverse-mcp-server-agents-just-got-smarter/",
-   "quelle": "Microsoft Power Platform Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 5,
-   "kategorie": "Fachwissen",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "KI & Agenten",
-   "nutzen": 5,
-   "gefunden": "2026-11-09T00:44:38+00:00",
-   "gepusht": null,
-   "rid": "083b00a28b02"
   }
  ]
 }
