@@ -15,7 +15,7 @@
    "thema": "Geld",
    "nutzen": null,
    "gefunden": "2026-11-13T21:55:26+00:00",
-   "gepusht": null,
+   "gepusht": "2026-11-14T10:06:38+00:00",
    "rid": "51be6022ff1c"
   },
   {
@@ -1173,6 +1173,24 @@
  ],
  "wissen": [
   {
+   "id": "https://www.yeswehack.com/en/blog/brumens-bug-bounty-tips-newbies",
+   "titel": "‘Adapt payloads to your targets’: Brumens’ Bug Bounty tips for newbies",
+   "link": "https://www.yeswehack.com/en/blog/brumens-bug-bounty-tips-newbies",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Karriere",
+   "nutzen": 3,
+   "gefunden": "2026-11-14T10:06:38+00:00",
+   "gepusht": null,
+   "rid": "25bf579c3777"
+  },
+  {
    "id": "https://www.mydealz.de/deals/ibm-skillsbuild-kostenlose-kurse-mit-digitalen-badges-ki-cybersecurity-cloud-daten-auch-auf-deutsch-2870933",
    "titel": "153° - [IBM SkillsBuild] Kostenlose Kurse mit digitalen Badges: KI, Cybersecurity, Cloud & Daten – auch auf Deutsch",
    "link": "https://www.mydealz.de/deals/ibm-skillsbuild-kostenlose-kurse-mit-digitalen-badges-ki-cybersecurity-cloud-daten-auch-auf-deutsch-2870933",
@@ -2233,24 +2251,6 @@
    "gefunden": "2026-11-09T07:52:28+00:00",
    "gepusht": null,
    "rid": "8da90d79db74"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?p=8863",
-   "titel": "4 ways to learn how to build with Microsoft Copilot Studio",
-   "link": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/4-ways-to-learn-how-to-build-with-microsoft-copilot-studio/",
-   "quelle": "Microsoft Copilot Studio Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 4,
-   "kategorie": "Lernen",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Copilot Studio",
-   "nutzen": 4,
-   "gefunden": "2026-11-09T07:52:28+00:00",
-   "gepusht": null,
-   "rid": "f8e6e828953f"
   }
  ]
 }
