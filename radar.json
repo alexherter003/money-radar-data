@@ -1,6 +1,42 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/deutsche-bank-girokonto-25-eur-200-eur-pramie-2866909",
+   "titel": "Deutsche Bank Girokonto 25 € + 200 € Prämie bei spartanien",
+   "link": "https://www.mydealz.de/deals/deutsche-bank-girokonto-25-eur-200-eur-pramie-2866909",
+   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
+   "bereich": "privat",
+   "prioritaet": 1,
+   "score": 8,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 225,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-16T01:50:04+00:00",
+   "gepusht": "2026-11-08T17:01:01+00:00",
+   "rid": "5272e2ed1023"
+  },
+  {
+   "id": "https://www.mydealz.de/deals/payback-amex-20eur-fur-werber-50eur-fur-geworbene-auch-dm-american-express-kreditkarte-freunde-werben-freunde-kwk-kein-mindestumsatz-2872130",
+   "titel": "119° - [Payback AMEX] 2000 Punkte (20€) für Werber & 5000 Punkte (50€) für Geworbene - American Express Kreditkarte - Freunde werben Freunde (KwK)",
+   "link": "https://www.mydealz.de/deals/payback-amex-20eur-fur-werber-50eur-fur-geworbene-auch-dm-american-express-kreditkarte-freunde-werben-freunde-kwk-kein-mindestumsatz-2872130",
+   "quelle": "mydealz – Hot Deals",
+   "bereich": "privat",
+   "prioritaet": 2,
+   "score": 7,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 50,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-16T01:50:04+00:00",
+   "gepusht": null,
+   "rid": "10bf784aaddf"
+  },
+  {
    "id": "https://www.mydealz.de/deals/deutsche-bank-200-eur-pramie-fur-girokonto-neukunden-2871860",
    "titel": "Deutsche Bank: 200 € Prämie für Girokonto-Neukunden",
    "link": "https://www.mydealz.de/deals/deutsche-bank-200-eur-pramie-fur-girokonto-neukunden-2871860",
@@ -721,24 +757,6 @@
    "rid": "db5a7f0891c4"
   },
   {
-   "id": "https://www.mydealz.de/deals/deutsche-bank-girokonto-25-eur-200-eur-pramie-2866909",
-   "titel": "Deutsche Bank Girokonto 25 € + 200 € Prämie bei spartanien",
-   "link": "https://www.mydealz.de/deals/deutsche-bank-girokonto-25-eur-200-eur-pramie-2866909",
-   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
-   "bereich": "privat",
-   "prioritaet": 1,
-   "score": 8,
-   "kategorie": "Bankprämie",
-   "rechtsAmpel": "gelb",
-   "nettoBest": 225,
-   "frist": null,
-   "thema": "Geld",
-   "nutzen": null,
-   "gefunden": "2026-11-08T17:01:01+00:00",
-   "gepusht": "2026-11-08T17:01:01+00:00",
-   "rid": "5272e2ed1023"
-  },
-  {
    "id": "https://www.mydealz.de/deals/400-eur-mediamarkt-gutschein-100-gb-5g-telekom-netz-fur-effektiv-495-eurmonat-young-u28-2866893",
    "titel": "126° - 400 € MediaMarkt-Gutschein | 100 GB 5G Telekom-Netz für effektiv 4,95 €/Monat | Young U28",
    "link": "https://www.mydealz.de/deals/400-eur-mediamarkt-gutschein-100-gb-5g-telekom-netz-fur-effektiv-495-eurmonat-young-u28-2866893",
@@ -935,27 +953,27 @@
    "gefunden": "2026-11-02T02:21:19+00:00",
    "gepusht": null,
    "rid": "e1cf007ed66a"
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-castrol-getriebeol-axle-z-ls-90-1l-fur-2eur-atu-abholung-2859154",
-   "titel": "Preisfehler : Castrol Getriebeöl Axle Z LS 90 1L für 2€ ATU - Abholung",
-   "link": "https://www.mydealz.de/deals/preisfehler-castrol-getriebeol-axle-z-ls-90-1l-fur-2eur-atu-abholung-2859154",
-   "quelle": "mydealz – Preisfehler",
-   "bereich": "privat",
-   "prioritaet": 2,
-   "score": 6,
-   "kategorie": "Preisfehler",
-   "rechtsAmpel": "gelb",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Sonstiges",
-   "nutzen": null,
-   "gefunden": "2026-11-01T22:43:49+00:00",
-   "gepusht": null,
-   "rid": "f27dfee89380"
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.yeswehack.com/en/blog/vulnerability-disclosure-policy-through-the-eyes-of-a-bug-hunter",
+   "titel": "Vulnerability Disclosure Policy through the eyes of a bug hunter",
+   "link": "https://www.yeswehack.com/en/blog/vulnerability-disclosure-policy-through-the-eyes-of-a-bug-hunter",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 3,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Karriere",
+   "nutzen": 3,
+   "gefunden": "2026-11-16T01:50:04+00:00",
+   "gepusht": null,
+   "rid": "7038c7ae988a"
+  },
   {
    "id": "https://www.yeswehack.com/en/blog/introduction-postmessage-vulnerabilities",
    "titel": "Introduction to postMessage() Vulnerabilities",
@@ -2017,24 +2035,6 @@
    "gefunden": "2026-11-10T01:59:41+00:00",
    "gepusht": null,
    "rid": "da72c9cde59c"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/copilot/blog/?p=281500",
-   "titel": "Introducing Microsoft Scout: Your always-on personal agent",
-   "link": "https://www.microsoft.com/en-us/copilot/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/",
-   "quelle": "Microsoft 365 / Copilot Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 3,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "KI & Agenten",
-   "nutzen": 3,
-   "gefunden": "2026-11-10T01:59:41+00:00",
-   "gepusht": null,
-   "rid": "816e4044acdd"
   }
  ]
 }
