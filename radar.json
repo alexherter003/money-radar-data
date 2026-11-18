@@ -1,6 +1,42 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/direkt-uber-check24-60-cashback-fur-den-kfz-versicherungswechsel-1472726",
+   "titel": "Direkt über CHECK24: 60 € Cashback für den Kfz-Versicherungswechsel (Neukunden)",
+   "link": "https://www.mydealz.de/deals/direkt-uber-check24-60-cashback-fur-den-kfz-versicherungswechsel-1472726",
+   "quelle": "mydealz – Cashback",
+   "bereich": "privat",
+   "prioritaet": 2,
+   "score": 7,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 60,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-18T12:56:57+00:00",
+   "gepusht": null,
+   "rid": "0b248e1631ad"
+  },
+  {
+   "id": "https://www.mydealz.de/deals/rewe-kartenwelt-congstar-prepaid-starter-paket-fur-1-eur-inkl-20-eur-guthaben-33-gb-5g-allnet-flat-m-telekom-netz-keine-vertragsbindung-2874607",
+   "titel": "103° - [REWE Kartenwelt] congstar Prepaid Starter-Paket für 1 € inkl. 20 € Guthaben & 33 GB 5G (Allnet Flat M, Telekom-Netz, keine Vertragsbindung)",
+   "link": "https://www.mydealz.de/deals/rewe-kartenwelt-congstar-prepaid-starter-paket-fur-1-eur-inkl-20-eur-guthaben-33-gb-5g-allnet-flat-m-telekom-netz-keine-vertragsbindung-2874607",
+   "quelle": "mydealz – Hot Deals",
+   "bereich": "privat",
+   "prioritaet": 2,
+   "score": 6,
+   "kategorie": "Deal",
+   "rechtsAmpel": "grün",
+   "nettoBest": 20,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-18T12:56:57+00:00",
+   "gepusht": null,
+   "rid": "157fa06d0619"
+  },
+  {
    "id": "https://www.mydealz.de/deals/eprimo-shoop-150-eur-cashback-auf-okostromvertrag-inkl-smart-meter-1502600",
    "titel": "Eprimo & Shoop - 150 EUR Cashback auf Ökostromvertrag inkl. Smart Meter",
    "link": "https://www.mydealz.de/deals/eprimo-shoop-150-eur-cashback-auf-okostromvertrag-inkl-smart-meter-1502600",
@@ -523,24 +559,6 @@
    "rid": "d4c41742e830"
   },
   {
-   "id": "https://www.mydealz.de/deals/direkt-uber-check24-60-cashback-fur-den-kfz-versicherungswechsel-1472726",
-   "titel": "Direkt über CHECK24: 60 € Cashback für den Kfz-Versicherungswechsel (Neukunden)",
-   "link": "https://www.mydealz.de/deals/direkt-uber-check24-60-cashback-fur-den-kfz-versicherungswechsel-1472726",
-   "quelle": "mydealz – Cashback",
-   "bereich": "privat",
-   "prioritaet": 2,
-   "score": 7,
-   "kategorie": "Cashback",
-   "rechtsAmpel": "gelb",
-   "nettoBest": 60,
-   "frist": null,
-   "thema": "Geld",
-   "nutzen": null,
-   "gefunden": "2026-11-10T17:40:58+00:00",
-   "gepusht": null,
-   "rid": "0b248e1631ad"
-  },
-  {
    "id": "https://www.mydealz.de/diskussion/konstenloses-bahnticket-fur-polen-18-27-jahre-november-2026-bis-oktober-2027-inkl-anfahrt-2798422",
    "titel": "Konstenloses Bahnticket für Polen | 18-27 Jahre, November 2026 bis Oktober 2027 | inkl. Anfahrt",
    "link": "https://www.mydealz.de/diskussion/konstenloses-bahnticket-fur-polen-18-27-jahre-november-2026-bis-oktober-2027-inkl-anfahrt-2798422",
@@ -992,6 +1010,42 @@
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.yeswehack.com/en/blog/llm-series-gemini",
+   "titel": "How to use Gemini CLI for Bug Bounty research: analyse evidence, validate manually",
+   "link": "https://www.yeswehack.com/en/blog/llm-series-gemini",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Fachwissen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": 3,
+   "gefunden": "2026-11-18T12:56:57+00:00",
+   "gepusht": null,
+   "rid": "0ca2574bb917"
+  },
+  {
+   "id": "https://www.intigriti.com/researchers/blog/hacking-tools/web-fuzzing-for-hackers",
+   "titel": "Web fuzzing for hackers",
+   "link": "https://www.intigriti.com/researchers/blog/hacking-tools/web-fuzzing-for-hackers",
+   "quelle": "Intigriti Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Sonstiges",
+   "nutzen": 3,
+   "gefunden": "2026-11-18T12:56:57+00:00",
+   "gepusht": null,
+   "rid": "66eab0e97baa"
+  },
   {
    "id": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
    "titel": "Hacking AI customer service agents",
@@ -2035,42 +2089,6 @@
    "gefunden": "2026-11-14T16:34:38+00:00",
    "gepusht": null,
    "rid": "a834f79ac749"
-  },
-  {
-   "id": "https://www.yeswehack.com/en/blog/busting-bug-bounty-misconceptions",
-   "titel": "Busting Bug Bounty misconceptions",
-   "link": "https://www.yeswehack.com/en/blog/busting-bug-bounty-misconceptions",
-   "quelle": "YesWeHack Blog (Bug Bounty)",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 3,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Sonstiges",
-   "nutzen": 3,
-   "gefunden": "2026-11-14T16:34:38+00:00",
-   "gepusht": null,
-   "rid": "274281c494c8"
-  },
-  {
-   "id": "https://www.yeswehack.com/en/blog/pimpmyburp-10-Hackvertor",
-   "titel": "PimpMyBurp #10: Hackvertor – unleashing the power of Burp Suite",
-   "link": "https://www.yeswehack.com/en/blog/pimpmyburp-10-Hackvertor",
-   "quelle": "YesWeHack Blog (Bug Bounty)",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 3,
-   "kategorie": "Lernen",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Sonstiges",
-   "nutzen": 3,
-   "gefunden": "2026-11-14T16:34:38+00:00",
-   "gepusht": null,
-   "rid": "4da65a797c5d"
   }
  ]
 }
