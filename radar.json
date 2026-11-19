@@ -1007,45 +1007,27 @@
    "gefunden": "2026-11-06T00:04:49+00:00",
    "gepusht": null,
    "rid": "9649925be03d"
-  },
-  {
-   "id": "https://www.doctorofcredit.com/?p=268347?d=20261105",
-   "titel": "Farmers Insurance Federal Credit Union (FIGFCU) Up To $1,500 Business Checking Bonus",
-   "link": "https://www.doctorofcredit.com/farmers-insurance-federal-credit-union-figfcu-up-to-1500-business-checking-bonus/",
-   "quelle": "Doctor of Credit",
-   "bereich": "privat",
-   "prioritaet": 2,
-   "score": 6,
-   "kategorie": "Bankprämie",
-   "rechtsAmpel": "gelb",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Geld",
-   "nutzen": null,
-   "gefunden": "2026-11-05T18:41:37+00:00",
-   "gepusht": null,
-   "rid": "c52f06458c41"
-  },
-  {
-   "id": "https://www.doctorofcredit.com/?p=197583?d=20261105",
-   "titel": "[Targeted] American Express High Yield Savings Account $400-$500 Bonus",
-   "link": "https://www.doctorofcredit.com/targeted-american-express-high-yield-savings-account-350-bonus/",
-   "quelle": "Doctor of Credit",
-   "bereich": "privat",
-   "prioritaet": 2,
-   "score": 6,
-   "kategorie": "Bankprämie",
-   "rechtsAmpel": "gelb",
-   "nettoBest": 400,
-   "frist": null,
-   "thema": "Geld",
-   "nutzen": null,
-   "gefunden": "2026-11-05T18:41:37+00:00",
-   "gepusht": null,
-   "rid": "72a2fdaf6892"
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-with-ai-how-to-prevent-your-ai-from-going-rogue",
+   "titel": "Hacking with AI: How to prevent your AI from going rogue",
+   "link": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-with-ai-how-to-prevent-your-ai-from-going-rogue",
+   "quelle": "Intigriti Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": 3,
+   "gefunden": "2026-11-19T21:23:35+00:00",
+   "gepusht": null,
+   "rid": "5166107a9cd1"
+  },
   {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135130",
    "titel": "What’s new in Power Platform: October/November 2026 feature update",
@@ -2107,24 +2089,6 @@
    "gefunden": "2026-11-16T20:17:59+00:00",
    "gepusht": null,
    "rid": "c43a10f98f6a"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/?post_type=copilot&p=8252",
-   "titel": "Extending agentic Microsoft Dynamics 365 Sales with MCP",
-   "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/21/extending-agentic-microsoft-dynamics-365-sales-with-mcp/",
-   "quelle": "Microsoft Copilot Studio Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 3,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Copilot Studio",
-   "nutzen": 3,
-   "gefunden": "2026-11-16T20:17:59+00:00",
-   "gepusht": null,
-   "rid": "d6cf53e95441"
   }
  ]
 }
