@@ -1,6 +1,42 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/revolut-business-800-eur-kwk-pramie-personalisiert-2869968",
+   "titel": "Revolut Business bis zu 900 € KwK-Prämie (personalisiert)",
+   "link": "https://www.mydealz.de/deals/revolut-business-800-eur-kwk-pramie-personalisiert-2869968",
+   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
+   "bereich": "privat",
+   "prioritaet": 1,
+   "score": 8,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 800,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-20T11:19:24+00:00",
+   "gepusht": "2026-11-12T18:49:20+00:00",
+   "rid": "b6e76b7c7870"
+  },
+  {
+   "id": "https://www.mydealz.de/deals/300eur-pramien-fur-bedingungslos-kostenloses-girokonto-openbanksantander-uber-reebate-2876977",
+   "titel": "300€ Prämien für bedingungslos kostenloses Girokonto [openbank/Santander über reebate]",
+   "link": "https://www.mydealz.de/deals/300eur-pramien-fur-bedingungslos-kostenloses-girokonto-openbanksantander-uber-reebate-2876977",
+   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
+   "bereich": "privat",
+   "prioritaet": 1,
+   "score": 8,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": 300,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-20T11:19:24+00:00",
+   "gepusht": "2026-11-20T11:19:24+00:00",
+   "rid": "460468c46703"
+  },
+  {
    "id": "https://www.mydealz.de/deals/comdirect-kwk-auf-75eur-angehoben-2864762",
    "titel": "[Comdirect] KwK auf 75€ angehoben",
    "link": "https://www.mydealz.de/deals/comdirect-kwk-auf-75eur-angehoben-2864762",
@@ -485,24 +521,6 @@
    "gefunden": "2026-11-13T06:31:42+00:00",
    "gepusht": null,
    "rid": "4d6349f5f12b"
-  },
-  {
-   "id": "https://www.mydealz.de/deals/revolut-business-800-eur-kwk-pramie-personalisiert-2869968",
-   "titel": "Revolut Business 800 € KwK-Prämie (personalisiert)",
-   "link": "https://www.mydealz.de/deals/revolut-business-800-eur-kwk-pramie-personalisiert-2869968",
-   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
-   "bereich": "privat",
-   "prioritaet": 1,
-   "score": 8,
-   "kategorie": "Bankprämie",
-   "rechtsAmpel": "gelb",
-   "nettoBest": 800,
-   "frist": null,
-   "thema": "Geld",
-   "nutzen": null,
-   "gefunden": "2026-11-12T18:49:20+00:00",
-   "gepusht": "2026-11-12T18:49:20+00:00",
-   "rid": "b6e76b7c7870"
   },
   {
    "id": "https://www.doctorofcredit.com/?p=226038?d=20261112",
