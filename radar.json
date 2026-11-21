@@ -1029,6 +1029,24 @@
  ],
  "wissen": [
   {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135742",
+   "titel": "Discover and review Power Pages sites with Power Platform inventory (public preview)",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/discover-and-review-power-pages-sites-with-power-platform-inventory-public-preview/",
+   "quelle": "Microsoft Power Platform Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 5,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 5,
+   "gefunden": "2026-11-21T01:22:14+00:00",
+   "gepusht": null,
+   "rid": "3f52064b26d9"
+  },
+  {
    "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135681",
    "titel": "Turn AI ambition into real business value with Power Platform",
    "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/11/18/turn-ai-ambition-into-real-business-value-with-power-platform/",
@@ -2089,24 +2107,6 @@
    "gefunden": "2026-11-16T20:17:59+00:00",
    "gepusht": null,
    "rid": "8c2b300a175e"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135388",
-   "titel": "From one prompt to a governed Dataverse app: the Dataverse plugin lands in Copilot Cowork",
-   "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/28/dataverse-plugin-copilot-cowork/",
-   "quelle": "Microsoft Power Platform Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 5,
-   "kategorie": "Fachwissen",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Power Platform",
-   "nutzen": 5,
-   "gefunden": "2026-11-16T20:17:59+00:00",
-   "gepusht": null,
-   "rid": "5a3ff8788438"
   }
  ]
 }
