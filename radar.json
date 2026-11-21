@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/comdirect-bis-zu-1250-eur-pramie-fur-geldanlage-2865625",
+   "titel": "comdirect - bis zu 1250 € Prämie für Geldanlage (cominvest)",
+   "link": "https://www.mydealz.de/deals/comdirect-bis-zu-1250-eur-pramie-fur-geldanlage-2865625",
+   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
+   "bereich": "privat",
+   "prioritaet": 1,
+   "score": 8,
+   "kategorie": "Bankprämie",
+   "rechtsAmpel": "gelb",
+   "nettoBest": null,
+   "frist": "2027-01-15",
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-21T09:36:43+00:00",
+   "gepusht": "2026-11-06T06:24:57+00:00",
+   "rid": "6b94b9db5460"
+  },
+  {
    "id": "https://www.mydealz.de/deals/credit-agricole-savings-festgeld-35-200eur-pramie-2877399",
    "titel": "CA Savings Festgeld 3,5% für 12M + 200€ ab 50T€ ≙ 3,9% p.a.",
    "link": "https://www.mydealz.de/deals/credit-agricole-savings-festgeld-35-200eur-pramie-2877399",
@@ -485,24 +503,6 @@
    "gefunden": "2026-11-13T15:18:23+00:00",
    "gepusht": null,
    "rid": "1f5e63499a09"
-  },
-  {
-   "id": "https://www.mydealz.de/deals/comdirect-bis-zu-1250-eur-pramie-fur-geldanlage-2865625",
-   "titel": "comdirect - bis zu 1250 € Prämie für Geldanlage (cominvest)",
-   "link": "https://www.mydealz.de/deals/comdirect-bis-zu-1250-eur-pramie-fur-geldanlage-2865625",
-   "quelle": "mydealz – Bank (Konto-/Neukundenprämien)",
-   "bereich": "privat",
-   "prioritaet": 1,
-   "score": 7,
-   "kategorie": "Bankprämie",
-   "rechtsAmpel": "gelb",
-   "nettoBest": null,
-   "frist": "2027-01-15",
-   "thema": "Geld",
-   "nutzen": null,
-   "gefunden": "2026-11-13T06:31:42+00:00",
-   "gepusht": "2026-11-06T06:24:57+00:00",
-   "rid": "6b94b9db5460"
   },
   {
    "id": "https://www.mydealz.de/deals/o2-netz-xiaomi-redmi-note-17-pro-max-5g-256gb-im-allnetsms-flat-40gb-5g-fur-1499eurmonat-49eur-80eur-cashback-2870237",
