@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "https://www.mydealz.de/deals/vodafone-prepaid-callya-allnet-m-starter-set-50-gb-5g-15-eur-startguthaben-allnet-flat-prime-2865361",
+   "titel": "103° - Vodafone Prepaid CallYa Allnet M Starter-Set (50 GB 5G + 15 € Startguthaben, Allnet Flat) (Prime)",
+   "link": "https://www.mydealz.de/deals/vodafone-prepaid-callya-allnet-m-starter-set-50-gb-5g-15-eur-startguthaben-allnet-flat-prime-2865361",
+   "quelle": "mydealz – Hot Deals",
+   "bereich": "privat",
+   "prioritaet": 2,
+   "score": 6,
+   "kategorie": "Deal",
+   "rechtsAmpel": "grün",
+   "nettoBest": 15,
+   "frist": null,
+   "thema": "Geld",
+   "nutzen": null,
+   "gefunden": "2026-11-22T02:58:41+00:00",
+   "gepusht": null,
+   "rid": "b2ad47375c39"
+  },
+  {
    "id": "https://www.mydealz.de/deals/1822direkt-spartanien-300eur-50eur-oder-130eur-kwk-pramie-fur-depot-eroffnung-11-trades-sparplan-notwendig-auch-fur-junior-depot-2878259",
    "titel": "1822direkt & Spartanien - 300€ + 50€ (oder 130€ KwK) Prämie für Depot-Eröffnung, 11 Trades + Sparplan notwendig, auch für Junior-Depot",
    "link": "https://www.mydealz.de/deals/1822direkt-spartanien-300eur-50eur-oder-130eur-kwk-pramie-fur-depot-eroffnung-11-trades-sparplan-notwendig-auch-fur-junior-depot-2878259",
@@ -1119,6 +1137,24 @@
  ],
  "wissen": [
   {
+   "id": "https://www.yeswehack.com/en/blog/new-burpsuite-extension",
+   "titel": "New YesWeHack Api Extension for Burp",
+   "link": "https://www.yeswehack.com/en/blog/new-burpsuite-extension",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Sonstiges",
+   "nutzen": 3,
+   "gefunden": "2026-11-22T02:58:41+00:00",
+   "gepusht": null,
+   "rid": "8a514ac7e6c0"
+  },
+  {
    "id": "https://www.yeswehack.com/en/blog/dojo-ctf-challenge-winners-37",
    "titel": "Dojo challenge #37 - Hacker Forum winners and writeup",
    "link": "https://www.yeswehack.com/en/blog/dojo-ctf-challenge-winners-37",
@@ -2179,24 +2215,6 @@
    "gefunden": "2026-11-17T03:41:29+00:00",
    "gepusht": null,
    "rid": "083b00a28b02"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133597",
-   "titel": "2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot Studio offerings",
-   "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/18/2026-release-wave-1-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-copilot-studio-offerings/",
-   "quelle": "Microsoft Power Automate Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 5,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Copilot Studio",
-   "nutzen": 5,
-   "gefunden": "2026-11-17T03:41:29+00:00",
-   "gepusht": null,
-   "rid": "ce9ed58bc927"
   }
  ]
 }
