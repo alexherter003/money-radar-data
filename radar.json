@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "https://weworkremotely.com/remote-jobs/terac-offensive-cybersecurity-engineers-build-rl-environments-for-ai-evaluation",
+   "titel": "Terac: Offensive Cybersecurity Engineers: Build RL Environments for AI Evaluation",
+   "link": "https://weworkremotely.com/remote-jobs/terac-offensive-cybersecurity-engineers-build-rl-environments-for-ai-evaluation",
+   "quelle": "We Work Remotely – Programming",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 8,
+   "kategorie": "Auftrag",
+   "rechtsAmpel": "gelb",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "KI & Agenten",
+   "nutzen": null,
+   "gefunden": "2026-11-28T10:10:37+00:00",
+   "gepusht": "2026-11-28T10:10:37+00:00",
+   "rid": "56979ecb1cbc"
+  },
+  {
    "id": "https://www.mydealz.de/deals/direkt-uber-check24-60-cashback-fur-den-kfz-versicherungswechsel-1472726",
    "titel": "Direkt über CHECK24: 60 € Cashback für den Kfz-Versicherungswechsel (Neukunden)",
    "link": "https://www.mydealz.de/deals/direkt-uber-check24-60-cashback-fur-den-kfz-versicherungswechsel-1472726",
@@ -1010,6 +1028,42 @@
   }
  ],
  "wissen": [
+  {
+   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135681",
+   "titel": "Turn AI ambition into real business value with Power Platform",
+   "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/11/18/turn-ai-ambition-into-real-business-value-with-power-platform/",
+   "quelle": "Microsoft Power Platform Blog",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Info",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Power Platform",
+   "nutzen": 4,
+   "gefunden": "2026-11-28T10:10:37+00:00",
+   "gepusht": null,
+   "rid": "ac9779d43ab3"
+  },
+  {
+   "id": "https://www.yeswehack.com/en/blog/dojo-challenge-solution-50",
+   "titel": "Dojo challenge #50 Bucket Vault solution",
+   "link": "https://www.yeswehack.com/en/blog/dojo-challenge-solution-50",
+   "quelle": "YesWeHack Blog (Bug Bounty)",
+   "bereich": "business",
+   "prioritaet": 2,
+   "score": 4,
+   "kategorie": "Lernen",
+   "rechtsAmpel": "grün",
+   "nettoBest": null,
+   "frist": null,
+   "thema": "Zertifikate",
+   "nutzen": 3,
+   "gefunden": "2026-11-28T10:10:37+00:00",
+   "gepusht": null,
+   "rid": "2bb9c41d39d0"
+  },
   {
    "id": "https://www.yeswehack.com/en/blog/testing-ai-scale-ai-vulnerabilities",
    "titel": "Testing AI-powered systems at scale via Bug Bounty, part 2: AI-specific vulnerabilities",
@@ -2053,42 +2107,6 @@
    "gefunden": "2026-11-25T02:14:37+00:00",
    "gepusht": null,
    "rid": "5c6a6fcabcfa"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135333",
-   "titel": "Invite agentic coauthors to collaborate with you directly in canvas studio!",
-   "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/invite-agentic-coauthors-to-collaborate-with-you-directly-in-canvas-studio/",
-   "quelle": "Microsoft Power Platform Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 5,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Power Platform",
-   "nutzen": 4,
-   "gefunden": "2026-11-25T02:14:37+00:00",
-   "gepusht": null,
-   "rid": "d02380a43e90"
-  },
-  {
-   "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=134894",
-   "titel": "Register now for PPCC 2026: Come for the learning, stay for the community",
-   "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/08/13/register-now-for-ppcc-2026-come-for-the-learning-stay-for-the-community/",
-   "quelle": "Microsoft Power Automate Blog",
-   "bereich": "business",
-   "prioritaet": 2,
-   "score": 4,
-   "kategorie": "Info",
-   "rechtsAmpel": "grün",
-   "nettoBest": null,
-   "frist": null,
-   "thema": "Power Platform",
-   "nutzen": 3,
-   "gefunden": "2026-11-25T02:14:37+00:00",
-   "gepusht": null,
-   "rid": "c43a10f98f6a"
   }
  ]
 }
